@@ -1,0 +1,30 @@
+Colors
+
+Main backgrownd: #F3EFE7
+Text/dark background: #252422
+Main accent: #B55239
+Secondary: #C9A09A
+Organic Accent: #777455
+
+
+Fonts
+
+Cormorant Garamond
+Inter
+
+Text
+
+Hero: Art made of memory, body & belonging.
+
+Quote: I paint the things we carry long after we have forgotten their names.
+
+Figcaption 1: The Weight of Summer . Oil in canvas . 2026
+Figcaption 2: Quiet Geometry . Oil in canvas . 2026
+Figcaption 3: After the Garden . Oil in Canvas . 2026
+Figcaption 4: Things we Carry . Oil in canvas . 2026
+
+
+
+
+
+
