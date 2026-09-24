@@ -30,18 +30,29 @@ a{
     font-size: 30px;
     margin: 0;
     margin-left: 40px;
-    
 }
-.hero{
+.hero-container{
     background-color: #b55239;
     width: 100%;
     display: flex;
     justify-content: space-around;
+    gap: 20px;
     padding: 48px;
 }
-.hero img{
-    width: 400px;
+.hero-container img{
+    width: 500px;
     height: auto;
+    margin-right: 48px;
+}
+.hero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 48px;
+}
+.hero button{
+    margin-top: 32px;
 }
 .cards-container{
     display: flex;
@@ -86,6 +97,15 @@ button{
     background-color: #252422;
     color: #C9A09A;
     font-family: inter;
-    font-size: 16px;
+    font-size: 14px;
     padding: 8px;
+}
+.main-font{
+    font-family: "Cormorant Garamond";
+    font-weight: bold;
+    font-size: 30px;
+}
+.secondary-font{
+    font-family: inter, sans-serif;
+    font-size: 12px;
 }
