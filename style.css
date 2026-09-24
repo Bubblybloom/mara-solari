@@ -68,6 +68,9 @@ figure img{
     border-radius: 12px;
     margin: 20px;
 }
+figcaption{
+    text-align: center;
+}
 .quote{
     background-color: #777455;
     width: 100%;
@@ -75,6 +78,11 @@ figure img{
     flex-direction: column;
     align-items: center;
     padding: 48px;
+}
+.quote-style{
+    font-family: Cormorant Garamond;
+    font-style: italic;
+    font-size: 20px;
 }
 .cta-container{
     background-color: #b55239;
