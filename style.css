@@ -10,24 +10,27 @@ header{
     width: 100%;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 ul{
     display: flex;
     justify-content: space-between;
     gap: 40px;
     list-style-type: none;
-    margin: 20px;
-    margin-left: 40px;
+    margin-right: 40px;
 }
 a{
+    font-family: inter, sans-serif;
     text-decoration-line: none;
-    color: #F3EFE7;
+    color: #C9A09A;
 }
-.monogram{
-    width: 50px;
-    height: auto;
-    margin: 10px;
-    margin-left: 30px;
+.logo{
+    font-family: "Cormorand Garamond";
+    color: #C9A09A;
+    font-size: 30px;
+    margin: 0;
+    margin-left: 40px;
+    
 }
 .hero{
     background-color: #b55239;
